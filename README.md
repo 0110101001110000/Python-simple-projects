@@ -26,7 +26,7 @@ cd project-path-here/
 
 To start the project, run the following command:
 ```bash
-python main.py
+python3 main.py
 ```
 
 This will open the chosen project on your machine.
